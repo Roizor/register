@@ -1,0 +1,18 @@
+{
+  "$schema": "../schemas/domain.schema.json",
+
+  "description": "Project Description",
+
+  "domain": "localplayer.dev",
+  "subdomain": "aiden",
+
+  "owner": {
+    "email": "aidenjs9@icloud.com"
+  },
+
+  "record": {
+    "CNAME": "sitesite.crazyhorseradish.repl.co.",
+  },
+
+  "proxy": false
+}
